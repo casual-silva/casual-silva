@@ -1,7 +1,4 @@
 
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=casual-silva" alt="访客统计" /></div>
-
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/assets/github-contribution-grid-snake.svg" /></div>
