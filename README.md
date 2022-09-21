@@ -1,4 +1,3 @@
-<p align="center"><img src="https://profile-counter.glitch.me/casual-silva/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=casual-silva" alt="访客统计" /></div>
