@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=casual-silva" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/casual-silva/casual-silva/main/assets/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://raw.githubusercontent.com/casual-silva/casual-silva/main/assets/github-contribution-grid-snake.svg" /></div> -->
 
 ![](https://raw.githubusercontent.com/casual-silva/casual-silva/main/assets/github-contribution-grid-snake.svg)
 
