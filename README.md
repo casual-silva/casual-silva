@@ -18,6 +18,10 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/assets/github-contribution-grid-snake.svg" /></div>
 
+<!-- GitHub奖杯🏆 -->
+<div align="center">
+<img  src="https://github-profile-trophy.vercel.app/?username=casual-silva&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+</div>
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -25,6 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=NewsCrawl&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/casual-silva/ppyolo-captcha">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=casual-silva&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casual-silva&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 💪 正在学习: 
@@ -37,11 +49,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 <!-- 🧠 计划学习 -->
-
-
 <!-- 🧰 常用的工具: -->
 
-
+🧠 常用工具
 <!-- Gif -->
 <div align="center">
 <!--   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html"> -->
@@ -54,21 +64,9 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- just img -->
+<!-- just img
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
+ -->
 <!-- profile-3d-contrib -->
+🧰 Github-3D贡献图
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=casual-silva&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=casual-silva&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casual-silva&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
