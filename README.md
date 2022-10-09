@@ -45,7 +45,7 @@
 ![K8s](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=white&logoColor=#326CE5)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 <!-- 🧠 计划学习 -->
