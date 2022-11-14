@@ -6,7 +6,7 @@
 <!-- 个人介绍 -->
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是Silva, 不知名python开发工程师, 目前正在学 K8s、深度学习-NLP、Golang; 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是Silva, 不知名python开发工程师, 目前正在学 K8s、深度学习-NLP、爬虫逆向、Golang; 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;勤能补拙, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
