@@ -6,10 +6,19 @@
 <!-- 个人介绍 -->
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是Silva, 不知名python开发工程师, 目前正在学 K8s、深度学习-NLP、爬虫逆向、Golang; 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是Silva, 不知名python开发工程师, 目前正在学 K8s、深度学习-NLP、爬虫逆向、Go-Server; 热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;勤能补拙, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
+
+💪 正在学习: 
+
+&emsp;&emsp;
+![kubernetes](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=ff69b4&logoColor=#326CE5)
+![NLP](https://img.shields.io/badge/-Python_NLP-grey?style=flat-square&logo=python&logoColor=brightgreen)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
+
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/assets/work_on_night.gif"/></div> -->
@@ -38,15 +47,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casual-silva&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
   
-
-💪 正在学习: 
-
-&emsp;&emsp;
-![kubernetes](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=ff69b4&logoColor=#326CE5)
-![NLP](https://img.shields.io/badge/-Python_NLP-grey?style=flat-square&logo=python&logoColor=brightgreen)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 <!-- 🧠 计划学习 -->
 
