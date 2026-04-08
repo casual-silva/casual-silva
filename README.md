@@ -24,28 +24,48 @@
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/assets/work_on_night.gif"/></div> -->
 
 
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/casual-silva/casual-silva/assets/github-contribution-grid-snake.svg" /></div>
 
 <!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/casual-silva/NewsCrawl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=NewsCrawl&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/casual-silva/ppyolo-captcha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=casual-silva&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
+😃开源项目
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/casual-silva/NewsCrawl"><b>NewsCrawl</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/casual-silva/NewsCrawl?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/casual-silva/NewsCrawl?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/casual-silva/NewsCrawl?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/casual-silva/NewsCrawl?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/casual-silva/ppyolo-captcha"><b>ppyolo-captcha</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/casual-silva/ppyolo-captcha?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/casual-silva/ppyolo-captcha?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/casual-silva/ppyolo-captcha?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/casual-silva/ppyolo-captcha?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/casual-silva/ruishu_untispider"><b>ruishu_untispider</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/casual-silva/ruishu_untispider?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/casual-silva/ruishu_untispider?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/casual-silva/ruishu_untispider?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/casual-silva/ruishu_untispider?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- GitHub奖杯🏆 -->
-<div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=casual-silva&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
 
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=casual-silva&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casual-silva&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+
   
 
 <!-- 🧠 计划学习 -->
