@@ -40,6 +40,13 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/casual-silva/QuickAgentFlow"><b>QuickAgentFlow</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/casual-silva/QuickAgentFlow?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/casual-silva/QuickAgentFlow?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/casual-silva/QuickAgentFlow?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/casual-silva/QuickAgentFlow?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/casual-silva/NewsCrawl"><b>NewsCrawl</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/casual-silva/NewsCrawl?style=flat-square&labelColor=343b41"/></td>
